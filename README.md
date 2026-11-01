@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Wan Muhammad Nazreen 👋
 
-<!--
-**wannazreen/wannazreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate at Universiti Malaysia Kelantan (UMK)
 
-Here are some ideas to get you started:
+💻 Interested in Software Development, Web Development,
+and Database Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently developing my technical skills through
+academic and personal projects.
+
+## Technical Interests
+- Web Application Development
+- Backend Development
+- Database Management
+- Software Engineering
+
+## Featured Projects
+Projects will be added as they are completed.
+
+## Contact
+Email: wanmnazreen@gmail.com
